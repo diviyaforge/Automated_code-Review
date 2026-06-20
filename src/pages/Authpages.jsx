@@ -373,7 +373,7 @@ function SignUpPage({ onGoSignIn }) {
           </div>
           <button className="primary-btn" onClick={handleCreate}>Create account</button>
           <div className="back-row">
-            <p className="welcome-txt">Welcome 😎</p>
+            <p className="welcome-txt">Welcome 🤩 </p>
             <button className="link-btn" onClick={onGoSignIn}><ArrowLeft /> Back to Login</button>
           </div>
         </div>
